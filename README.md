@@ -6,7 +6,7 @@
 
 ## コード
 ```
-for (var seireki = 1926; seireki <= 1936; seireki++) {
+for (var seireki = 1926; seireki <= 1935; seireki++) {
     process.stdout.write("西暦" + seireki + "年は、");
     var syowa = seireki - 1925;
     console.log("昭和" + syowa + "年です。");
@@ -25,7 +25,6 @@ for (var seireki = 1926; seireki <= 1936; seireki++) {
 西暦1933年は、昭和8年です。
 西暦1934年は、昭和9年です。
 西暦1935年は、昭和10年です。
-西暦1936年は、昭和11年です。
 ```
   
 ## 開発環境
