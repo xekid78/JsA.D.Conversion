@@ -6,7 +6,7 @@
 
 ## コード
 ```
-(function () {
+(function() {
     'use strict';
 
     for (var seireki = 1926; seireki <= 1935; seireki++) {
